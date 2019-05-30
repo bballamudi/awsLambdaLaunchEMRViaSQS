@@ -1,0 +1,7 @@
+# virtual envs
+/venv
+venv/
+
+# Pycharm
+.idea/
+
