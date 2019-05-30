@@ -1,0 +1,19 @@
+{
+  "version": "0",
+  "id": "999cccaa-eaaa-0000-1111-123456789012",
+  "detail-type": "EMR Step Status Change",
+  "source": "aws.emr",
+  "account": "123456789012",
+  "time": "2016-12-16T20:53:09Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "severity": "INFO",
+    "actionOnFailure": "TERMINATE",
+    "stepId": "s-2W3TG8SSXHG84",
+    "name": "sampleSparkJob",
+    "clusterId": "j-137UA3LKDX6XH",
+    "state": "COMPLETED",
+    "message": "Step s-2W3TG8SSXHG84 (sampleSparkJob) in Amazon EMR cluster j-137UA3LKDX6XH (sampleSparkJob) finished at 2016-12-16 20:53 UTC."
+  }
+}
